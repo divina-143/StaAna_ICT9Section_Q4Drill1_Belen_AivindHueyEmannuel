@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to bottom right, #d0d0d0, #9c9c7a);
+}
+
+.main-box {
+    width: 450px;
+    background: rgba(0,0,0,0.8);
+    border-radius: 15px;
+}
+
+.result-box {
+    background: rgba(255,255,255,0.1);
+    border-radius: 10px;
+}
